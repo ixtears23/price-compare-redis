@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: price-compare-redis
+  data:
+    redis:
+      host: 43.201.250.100
+      port: 6379
